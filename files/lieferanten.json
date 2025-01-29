@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "TechSupply GmbH",
+        "E-Mail": "hans.mueller@techsupply.de",
+        "Ansprechpartner": "Hans Mueller",
+        "Bewertungsscore": 3.69,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "Green Solutions",
+        "E-Mail": "s.becker@greensolutions.de",
+        "Ansprechpartner": "Sarah Becker",
+        "Bewertungsscore": 2.82,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "Office Essentials",
+        "E-Mail": "t.schneider@officeessentials.com",
+        "Ansprechpartner": "Tom Schneider",
+        "Bewertungsscore": 3.55,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "HardProduce Ltd.",
+        "E-Mail": "claudia.neumann@hardproduce.co.de",
+        "Ansprechpartner": "Claudia Neumann",
+        "Bewertungsscore": 3.41,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "CleanTech Innovations",
+        "E-Mail": "markus.wagner@cleantech.com",
+        "Ansprechpartner": "Markus Wagner",
+        "Bewertungsscore": 2.5,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "EcoFriendly Packaging",
+        "E-Mail": "j.meier@ecofriendlypackaging.com",
+        "Ansprechpartner": "Julia Meier",
+        "Bewertungsscore": 3.09,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "HighTech Industries",
+        "E-Mail": "stefan.weber@hightechind.de",
+        "Ansprechpartner": "Stefan Weber",
+        "Bewertungsscore": 2.51,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "Precision Tools Co.",
+        "E-Mail": "laura.fischer@precisiontools.com",
+        "Ansprechpartner": "Laura Fischer",
+        "Bewertungsscore": 2.62,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "Construction Materials Inc.",
+        "E-Mail": "p.hoffmann@constructionmaterials.com",
+        "Ansprechpartner": "Peter Hoffmann",
+        "Bewertungsscore": 2.71,
+        "LetzteBewertung": "2024-08-21"
+    },
+    {
+        "Name": "Maschine Suppies Ltd.",
+        "E-Mail": "d.koenig@maschinesupply.de",
+        "Ansprechpartner": "Daniela Koenig",
+        "Bewertungsscore": 2.72,
+        "LetzteBewertung": "2024-08-21"
+    }
+]
