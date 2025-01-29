@@ -15,7 +15,7 @@ def send_mail_intern():
     smtp_server = 'smtp.web.de'
     smtp_port = 587
     smtp_user = 'leanderniehoff@web.de'
-    smtp_password = 'Bonsai1998t.'
+    smtp_password = #Password einfügen
     # Lade die Zuständigkeiten aus der JSON-Datei
     with open(json_path, 'r') as file:
         data = json.load(file)
